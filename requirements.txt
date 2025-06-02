@@ -1,0 +1,10 @@
+mcp[cli]
+streamlit
+fastapi[standard]
+chromadb
+pandas
+scikit-learn
+unstructured[pdf]
+poppler-utils
+pandoc
+sentence-transformers
